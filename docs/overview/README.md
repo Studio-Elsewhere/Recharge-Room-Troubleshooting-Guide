@@ -2,13 +2,13 @@
 
 ## General reboot 
 
-In the majority of cases a general reboot of the recharge room will solve any problems you have with it. 
+In majority of cases, a general reboot of the recharge room will solve any problems you have with it. 
 
-To do this unplug the WiFi router in the room and the Raspberry Pi device. Plug the router back in and wait a minute or two for the WiFi to come back. Once you have confirmed you are receiving internet, connect the Raspberry Pi back to power as well.
+To do this, unplug the WiFi router in the room and the Raspberry Pi device. Plug the router back in and wait a minute or two until the WiFi has reconnected. Once you have confirmed you are receiving internet, connect the Raspberry Pi back to power as well.
 
-After a few minutes try activating some of the scenes. 
+After a few minutes, try activating some of the scenes. 
 
-This reset is needed when things aren't connecting properly to each other and the internet and it is the easiest way to get all the devices connected back. 
+This reset is needed when things aren't connecting properly to each other and the internet, and it is the easiest way to get all the devices connected back. 
 
 ## General Scenarios
 
@@ -21,7 +21,8 @@ Example:
 <img src="./images/home1.jpg" width="auto" height="320">  
 
 
-If the projector is stuck on the Google Chromecast screen, click into the Youtube App and say, “Ok Google, Activate Menu.” You should see a black notification banner that says, “Python script reconnected”, indicating that the room is reconnected. 
+If the projector is stuck on the Google Chromecast screen, click into the Youtube App and say, “Ok Google, Activate Menu.”   
+You should see a black notification banner that says, “Python script reconnected”, indicating that the room has reconnected. 
 
 
 ### Projector no signal detected
@@ -30,28 +31,29 @@ Example:
 
 <img src="./images/input1.jpg" width="auto" height="320">  
 
-If the projector screen says no signal detected or signal change detected this means the chromecast could be turned off. 
+If the projector screen says "No signal detected" or "Signal change detected" this indicates that the Google Chromecast could be turned off. 
 
-Use the projector controller and click on the input source button. Find the right source which is usually HDMI 1 
+Use the projector controller and click on the input source button. Click onto the source that the Chromecast is plugged into, which is usually HDMI 1. 
 
-If no source is detected make sure to click the power button on the chromecast remote and it should take you back to the chromecast homepage. From here log onto the youtube app and try activating a scene 
+If the error continues, make sure to click the power button on the Chromecast remote. This should take you back to the Chromecast homepage. From here, click onto the Youtube app and try activating a scene with a voice command. 
 
 ### Idle Youtube home screen
 Example:  
 
 <img src="./images/youtube1.jpg" width="auto" height="320">  
 
-If you encounter the screen returning to the idle Youtube screensaver, simply say, “Ok Google, Activate Menu.” You should be reconnected to the Recharge Room.
+If you encounter the screen returning to an idle Youtube screensaver, simply say, “Ok Google, Activate Menu.” You should be reconnected to the Recharge Room.
 
-### Google chromecast stuck on loading wheel
-This means the Internet is out. Make sure your WiFi is up, otherwise disconnect and reconnect the router power. 
+### Google Chromecast stuck on loading wheel
+This means that the Internet is out. Try disconnecting and then reconnecting the router power. Double check that the WiFi is up, and the Recharge Room should reconnect.
 
 ### Google speaker is suddenly playing music 
 
 If you find your recharge room suddenly playing music then this means someone probably told the Google Assistant to do so. Simply say “Ok Google Stop” and it should go back to the way things were. 
 
 ## Issues Requiring Further Assistance
-* If the scenes aren't activating or google isn't recognizing them
-* If the scenes take you back to youtube instead of the menu video  
+* My scenes aren't activating 
+* My room isn't recognizing my voice commands 
+* My scenes aren't returning to the menu
 
 In you are experiencing the instances above, contact <a href = "mailto: support@studioelsewhere.co">support@studioelsewhere.co</a>.
