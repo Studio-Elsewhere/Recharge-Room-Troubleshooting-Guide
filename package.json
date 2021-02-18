@@ -1,16 +1,28 @@
 {
     "name": "troubleshoot_site",
     "version": "1.0.0",
-    "description": "",
     "main": "index.js",
     "scripts": {
-        "docs:dev": "vuepress dev docs",
+        "test": "echo \"Error: no test specified\" && exit 1",
         "docs:build": "vuepress build docs"
-
     },
     "author": "",
     "license": "ISC",
     "devDependencies": {
         "vuepress": "^1.8.0"
-    }
+    },
+    "directories": {
+        "doc": "docs"
+    },
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jiyoonm/troubleshoot.git"
+    },
+    "keywords": [],
+    "bugs": {
+        "url": "https://github.com/jiyoonm/troubleshoot/issues"
+    },
+    "homepage": "https://github.com/jiyoonm/troubleshoot#readme",
+    "description": ""
 }
