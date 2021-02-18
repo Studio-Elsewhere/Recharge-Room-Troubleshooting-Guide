@@ -2,13 +2,15 @@
 
 ## General reboot 
 
-In majority of cases, a general reboot of the recharge room will solve any problems you have with it. 
+In majority of cases, a general reboot of the Recharge Room will solve most technical problems. 
 
-To do this, unplug the WiFi router in the room and the Raspberry Pi device. Plug the router back in and wait a minute or two until the WiFi has reconnected. Once you have confirmed you are receiving internet, connect the Raspberry Pi back to power as well.
+To do this, unplug the WiFi router in the room and the Raspberry Pi device. Plug the router back in and wait a minute or two until the WiFi has reconnected. Once you have confirmed that you are receiving internet, connect the Raspberry Pi back to power as well.
 
-After a few minutes, try activating some of the scenes. 
+After a few minutes, try activating some of the scenes with a voice command. 
 
+::: tip
 This reset is needed when things aren't connecting properly to each other and the internet, and it is the easiest way to get all the devices connected back. 
+:::
 
 ## General Scenarios
 
@@ -45,15 +47,15 @@ Example:
 If you encounter the screen returning to an idle Youtube screensaver, simply say, “Ok Google, Activate Menu.” You should be reconnected to the Recharge Room.
 
 ### Google Chromecast stuck on loading wheel
-This means that the Internet is out. Try disconnecting and then reconnecting the router power. Double check that the WiFi is up, and the Recharge Room should reconnect.
+This means that the Internet is out. Try disconnecting and then reconnecting the router power. Double check that the WiFi is up, and if so, the Recharge Room should be reconnected.
 
 ### Google speaker is suddenly playing music 
 
-If you find your recharge room suddenly playing music then this means someone probably told the Google Assistant to do so. Simply say “Ok Google Stop” and it should go back to the way things were. 
+If you find your recharge room suddenly playing music then this means someone has told the Google Assistant to do so. Simply say “Ok Google, stop” and the room should be functioning as usual. 
 
 ## Issues Requiring Further Assistance
 * My scenes aren't activating 
 * My room isn't recognizing my voice commands 
 * My scenes aren't returning to the menu
 
-In you are experiencing the instances above, contact <a href = "mailto: support@studioelsewhere.co">support@studioelsewhere.co</a>.
+If you are experiencing the instances above, contact <a href = "mailto: support@studioelsewhere.co">support@studioelsewhere.co</a>.
