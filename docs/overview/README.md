@@ -18,7 +18,7 @@ This reset is needed when things aren't connecting properly to each other and th
 
 Example:  
 
-<img src="./images/home.jpg" width="auto" height="320">  
+<img src="./images/home1.jpg" width="auto" height="320">  
 
 
 If the projector is stuck on the Google Chromecast screen, click into the Youtube App and say, “Ok Google, Activate Menu.” You should see a black notification banner that says, “Python script reconnected”, indicating that the room is reconnected. 
@@ -28,7 +28,7 @@ If the projector is stuck on the Google Chromecast screen, click into the Youtub
 
 Example:  
 
-<img src="./images/input.jpg" width="auto" height="320">  
+<img src="./images/input1.jpg" width="auto" height="320">  
 
 If the projector screen says no signal detected or signal change detected this means the chromecast could be turned off. 
 
@@ -39,7 +39,7 @@ If no source is detected make sure to click the power button on the chromecast r
 ### Idle Youtube home screen
 Example:  
 
-<img src="./images/youtube.jpg" width="auto" height="320">  
+<img src="./images/youtube1.jpg" width="auto" height="320">  
 
 If you encounter the screen returning to the idle Youtube screensaver, simply say, “Ok Google, Activate Menu.” You should be reconnected to the Recharge Room.
 
