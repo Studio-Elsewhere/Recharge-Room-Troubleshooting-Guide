@@ -9,7 +9,7 @@ To do this, unplug the WiFi router in the room and the Raspberry Pi device. Plug
 After a few minutes, try activating some of the scenes with a voice command. 
 
 ::: tip
-This reset is needed when things aren't connecting properly to each other and the internet, and it is the easiest way to get all the devices connected back. 
+This reset is needed when things aren't connecting properly to each other and the internet, and it is the easiest way to reconnect all of the devices. 
 :::
 
 ## General Scenarios
@@ -23,7 +23,8 @@ Example:
 <img src="./images/home1.jpg" width="auto" height="320">  
 
 
-If the projector is stuck on the Google Chromecast screen, click into the Youtube App and say, “Ok Google, Activate Menu.”   
+If the projector is stuck on the Google Chromecast screen, click into the Youtube App and say, “Ok Google, Activate Menu.” 
+  
 You should see a black notification banner that says, “Python script reconnected”, indicating that the room has reconnected. 
 
 
