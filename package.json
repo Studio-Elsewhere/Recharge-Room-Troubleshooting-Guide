@@ -4,25 +4,21 @@
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "docs:build": "vuepress build docs"
+        "docs:build": "vuepress build"
     },
-    "author": "",
-    "license": "ISC",
-    "devDependencies": {
-        "vuepress": "^1.8.0"
-    },
-    "directories": {
-        "doc": "docs"
-    },
-    "dependencies": {},
     "repository": {
         "type": "git",
         "url": "git+https://github.com/jiyoonm/troubleshoot.git"
     },
     "keywords": [],
+    "author": "",
+    "license": "ISC",
     "bugs": {
         "url": "https://github.com/jiyoonm/troubleshoot/issues"
     },
     "homepage": "https://github.com/jiyoonm/troubleshoot#readme",
-    "description": ""
+    "dependencies": {
+        "vuepress": "^1.8.0"
+
+    }
 }
