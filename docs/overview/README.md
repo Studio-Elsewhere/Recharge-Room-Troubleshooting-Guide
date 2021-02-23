@@ -1,12 +1,18 @@
 #  Recharge Room Manual
 
-Studio Elsewhere’s Recharge Rooms are immersive biophilic private spaces that include music, scent, lighting, and sound, designed with research support from the Abilities Research Center at the Icahn School of Medicine at Mount Sinai to address trauma, anxiety, and stress and improve cognitive performance. For more information, visit our website <a href = https://www.studioelsewhere.co/recharge-rooms>here</a>. 
+Studio Elsewhere’s Recharge Rooms are immersive biophilic private spaces that include music, scent, lighting, and sound, designed with research support from the Abilities Research Center at the Icahn School of Medicine at Mount Sinai to address trauma, anxiety, and stress and improve cognitive performance.  
+
+For more information, visit our website <a href = https://www.studioelsewhere.co/recharge-rooms>here</a>. 
 ## How To Use
 To begin the experience in your room, simply say,  **"Ok Google, activate menu.”** 
 
 <img src="./images/recharge.png" width="auto" height="350">  
 
 You will then see a category with all of our available nature scenes. To activate any of these scenes, simply say **"Ok Google activate.."** followed by the name of the scene.
+
+With your voice command, the room will automatically select visuals, sounds, and colors to display your scene, providing an immersive experience.
+
+To head to another scene at any given time, repeat **"Ok Google activate.."** followed by the name of your desired scene.
 
 
 ## Maintenance 
