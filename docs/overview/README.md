@@ -15,7 +15,7 @@ With your voice command, the room will automatically select visuals, sounds, and
 To head to another scene at any given time, repeat **"Ok Google activate.."** followed by the name of your desired scene.
 
 
-## Maintenance 
+## Maintenance
 
 
 

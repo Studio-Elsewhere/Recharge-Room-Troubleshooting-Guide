@@ -1,7 +1,8 @@
 ---
 home: true
 heroText: Recharge Rooms
-tagline: Troubleshooting
+heroImage: /room.jpg
+tagline: User Manual
 actionText: Get Started →
 actionLink: /overview/
 features:
