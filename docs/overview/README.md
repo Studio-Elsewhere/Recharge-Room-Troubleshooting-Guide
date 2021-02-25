@@ -42,7 +42,7 @@ To head to another scene at any given time, repeat **"Ok Google, activate.."** f
 * **Turn off the projector**
 * **Turn off any lamps and lights as needed**
 ::: tip
-We recommend the steps above for longevity of the room as well as the projector bulb and light bulbs.
+We recommend the steps above for longevity of the room, the projector bulb, and the light bulbs.
 :::
 
 ---------------------------------------------------------------------------------------------------------
