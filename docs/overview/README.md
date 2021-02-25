@@ -23,14 +23,15 @@ To head to another scene at any given time, repeat **"Ok Google, activate.."** f
 * **Turn on the projector**
     * If the projector is displaying its systems menu rather than a scene or picture slideshow, change the input signal to the Chromecast using the projector remote. It is usually **HDMI 1**. 
 * **Make sure the Chromecast is on and in the Youtube App**
-    * Activate the menu scene by saying, **"Ok Google, activate menu."**
+    * If not, turn on the Chromecast with the Chromecast remote and click the Youtube icon on the homepage.
+* **Activate the menu scene by saying, "Ok Google, activate menu."**
 * **Make sure the volume is at an appropriate level.**
     * Say **"Ok Google"** , followed by one of the following commands.
         * To increase the volume: **"Turn it up."** (Increases volume by 10%).
         * To decrease the volume: **"Turn it down."** (Decreases volume by 10%).
         * To set a specific level or percent: **“Volume 5.”**, or **“Volume to 65%.”**
 * **Make sure the speakers are on and set to full volume.**
-    * While we maintain the speakers at full volume, patrons are able to change the volume of scenes by repeating one of the voice commands on the step above.
+    * While we maintain the speakers at full volume, you can still adjust the volume of scenes by repeating one of the voice command from the step above.
 * **Turn on any powered down lamps and light strips.**
 * **Make sure there is enough scented oil in the humidifier.** 
 
@@ -39,9 +40,9 @@ To head to another scene at any given time, repeat **"Ok Google, activate.."** f
 #### Night Instructions:
 
 * **Turn off the projector**
-* **Turn off lamps and lights as needed**
+* **Turn off any lamps and lights as needed**
 ::: tip
-We suggest the steps above for longevity of the projector bulb and light bulbs, as well as energy conservation.
+We recommend the steps above for longevity of the room as well as the projector bulb and light bulbs.
 :::
 
 ---------------------------------------------------------------------------------------------------------
@@ -61,4 +62,4 @@ This verifies that the room is connected, as devices can become disconnected if 
 ---------------------------------------------------------------------------------------------------------
 
 
-If during your checkup you run into any problems, please refer to our [troubleshooting guide](trouble.md) for assistance.
+If you run into any problems during your checkup, please refer to our [troubleshooting guide](trouble.md) for assistance.

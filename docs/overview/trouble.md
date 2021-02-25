@@ -26,7 +26,7 @@ Example:
 <img src="./images/home1.jpg" width="auto" height="320">  
 
 
-If the projector is stuck on the Google Chromecast screen, **click into the Youtube App** and **say, “Ok Google, activate menu.”**
+If the projector is stuck on the Google Chromecast home screen, **click into the Youtube App** and say, **“Ok Google, activate menu.”**
   
 You should see a black notification banner that says, **“Python”**, indicating that the room has reconnected. 
 
@@ -39,9 +39,9 @@ Example:
 
 If the projector screen says **"No signal detected"** or **"Signal change detected"** this indicates that the Google Chromecast could be turned off. 
 
-Use the projector controller and **click on the input source button**. **Click onto the source** that the **Chromecast** is plugged into, which is usually **HDMI 1**. 
+Use the projector remote controller and **click on the input source button**. Then, **click onto the source that the Chromecast is plugged into**, which is usually **HDMI 1**. 
 
-If the error continues, make sure to **click the power button on the Chromecast remote**. This should take you back to the Chromecast homepage. From here, **click onto the Youtube app** and try activating a scene with a voice command. 
+If the error continues, make sure to **click the power button on the Chromecast remote**. This should take you back to the Chromecast homepage. From here, **click onto the Youtube app** and **try activating a scene with a voice command.** 
 
 ### Idle Youtube home screen
 Example:  
@@ -51,11 +51,11 @@ Example:
 If you encounter the screen returning to an idle Youtube screensaver, simply say, **“Ok Google, activate menu.”** You should be reconnected to the Recharge Room.
 
 ### Google Chromecast stuck on loading wheel
-This means that the Internet is out. **Try disconnecting and then reconnecting the router power.** Double check that the WiFi is up, and if so, the Recharge Room should be reconnected.
+This means that the Internet is out. **Try disconnecting and then reconnecting the router power.** Double-check that the WiFi is up, and if so, the Recharge Room should be reconnected.
 
 ### Google speaker is suddenly playing music 
 
-If you find your recharge room suddenly playing music then this means someone has told the Google Assistant to do so. Simply say **“Ok Google, stop.”** and the room should be functioning as usual. 
+If you find your Recharge Room suddenly playing music then this means someone has told the Google Assistant to do so. Simply say **“Ok Google, stop.”** and the room should be functioning as usual. 
 
 ## Issues Requiring Further Assistance
 * My scenes aren't activating 
