@@ -4,12 +4,30 @@
 
 In majority of cases, a general reboot of the Recharge Room will solve most technical problems. 
 
-Steps for Rebooting:
-1. **Unplug the WiFi router in the room and the connected Raspberry Pi device.** 
-2. **Plug the router back in and wait a minute or two until the WiFi has reconnected.**
-3.  **Once you have confirmed that you are receiving internet, connect the Raspberry Pi back to power as well.**
+**Steps for Rebooting:**
+1. Using the white Chromecast remote, **turn the Chromecast off and then back on with the power button.**
+    * If it opens onto a scene, then simply click on the Home button on the Chromecast remote before continuing to the steps below.  
 
-After a few minutes, try activating a scene with a voice command. 
+<img src="./images/homescreen.png" width="auto" height="300">  
+
+2. On the Google TV Homescreen, scroll and **click into the Youtube app.**
+
+3. Once in the Youtube app, **activate a scene** by saying **"Ok Google, activate serenity beach."** or **"Ok Google, activate emerald cove."**
+    * After activating a scene, you should see a grey notification on the top right corner that says **"Python is now connected."**  
+
+<img src="./images/python1.jpg" width="auto" height="300">  
+
+4. Once a scene is playing from the Youtube app, **click the Home button on the white Chromecast remote and go back to the Google TV Homescreen.** 
+    * Then try activating a different scene like **"Ok Google, activate serenity beach."**
+    * Upon your voice activation, it should automatically go to the scene, moving away from the Homescreen and playing the correct video.
+    * You will see a black banner notification on middle of the screen that just says **"Python".**
+
+**This is the notification that indicates the system is fully rebooted.**  
+
+<img src="./images/python2.jpg" width="auto" height="300">  
+
+
+
 
 ::: tip
 This reset is needed when things aren't connecting properly to each other and the internet, and it is the easiest way to reconnect all of the devices. 
