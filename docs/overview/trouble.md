@@ -41,7 +41,7 @@ This reset is needed when things aren't connecting properly to each other and th
 
 2. On the Google TV home screen, **click on the circle on the top right.** This will open a menu.  
 
-<img src="./images/profile.jpg" width="auto" height="300">  
+<img src="./images/profiles.jpg" width="auto" height="300">  
 
 
 3. Once in the menu, click on **Settings**.  
