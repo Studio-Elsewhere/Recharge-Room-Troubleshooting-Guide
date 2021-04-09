@@ -10,16 +10,16 @@ In majority of cases, a general reboot of the Recharge Room will solve most tech
 
 <img src="./images/homescreen.png" width="auto" height="300">  
 
-2. On the Google TV Homescreen, scroll and **click into the Youtube app.**
+2. On the Google TV home screen, scroll and **click into the Youtube app.**
 
 3. Once in the Youtube app, **activate a scene** by saying **"Ok Google, activate serenity beach."** or **"Ok Google, activate emerald cove."**
     * After activating a scene, you should see a grey notification on the top right corner that says **"Python is now connected."**  
 
 <img src="./images/python1.jpg" width="auto" height="300">  
 
-4. Once a scene is playing from the Youtube app, **click the Home button on the white Chromecast remote and go back to the Google TV Homescreen.** 
+4. Once a scene is playing from the Youtube app, **click the Home button on the white Chromecast remote and go back to the Google TV home screen.** 
     * Then try activating a different scene like **"Ok Google, activate serenity beach."**
-    * Upon your voice activation, it should automatically go to the scene, moving away from the Homescreen and playing the correct video.
+    * Upon your voice activation, it should automatically go to the scene, moving away from the home screen and playing the correct video.
     * You will see a black banner notification on middle of the screen that just says **"Python".**
 
 **This is the notification that indicates the system is fully rebooted.**  
@@ -35,6 +35,47 @@ This reset is needed when things aren't connecting properly to each other and th
 
 ## General Scenarios
 
+### Scenes are being recognized by the speaker, but not displaying on the screen
+
+1. Using the white Chromecast remote, **click the home button.**
+
+2. On the Google TV home screen, **click on the circle on the top right.** This will open a menu.  
+
+<img src="./images/profile.jpg" width="auto" height="300">  
+
+
+3. Once in the menu, click on **Settings**.  
+
+<img src="./images/settings.png" width="auto" height="300">  
+
+
+4. Once in the **Settings**, click on **System**.  
+
+<img src="./images/system.png" width="auto" height="300">  
+
+5. To restart the Chromecast with Google TV scroll down and select **Restart**. Then wait a few moments while the Chromecast restarts. When it's complete, it will return to the home screen.  
+
+<img src="./images/restart.png" width="auto" height="300">  
+
+6. Once you return to the home screen, follow the [general reboot steps](#general-reboot) to activate the scenes. 
+
+
+### Speaker isn't recognizing any of the listed voice commands
+
+1. Unplug the WiFi router in the room.
+2. Unplug **both** of the cables from the **Raspberry Pi device**. This consists of one cable that is connected to power, as well as one cable that is connected to the router.
+    * The Raspberry Pi is in an aluminum or black case that looks like this:
+    <img src="./images/pi.jpg" width="auto" height="300">  
+3. **Wait 30 seconds** while the router and the Raspberry Pi are disconnected.
+4. **Reconnect the router to power.**
+5. **Ensure that the router is connected to internet.** You can do this by referring to the green lights on the router. From left to right, the first, third, and fourth lights should be green.   
+
+<img src="./images/router.png" width="auto" height="300">  
+
+6. Once you have confirmed you are receiving internet, **connect the Raspberry Pi back to the router**. Then, **connect the Raspberry Pi to power**. The Pi should have a red light to indicate it's receiving power.   
+7. To activate a scene, follow the [general reboot steps](#general-reboot). 
+
+
 
 
 ### Stuck on the Google Chromecast home screen    
@@ -44,7 +85,7 @@ Example:
 <img src="./images/home1.jpg" width="auto" height="320">  
 
 
-If the projector is stuck on the Google Chromecast home screen, **click into the Youtube App** and say, **“Ok Google, activate menu.”**
+If the projector is stuck on the Google Chromecast home screen, **click into the Youtube App** and say, **“Ok Google, activate serenity beach.”**
   
 You should see a black notification banner that says, **“Python”**, indicating that the room has reconnected. 
 
@@ -76,8 +117,5 @@ This means that the Internet is out. **Try disconnecting and then reconnecting t
 If you find your Recharge Room suddenly playing music then this means someone has told the Google Assistant to do so. Simply say **“Ok Google, stop.”** and the room should be functioning as usual. 
 
 ## Issues Requiring Further Assistance
-* My scenes aren't activating 
-* My room isn't recognizing any of the listed voice commands 
-* My scenes aren't returning to the menu after they are done playing
 
-If you are experiencing the instances above, contact <a href = "mailto: support@studioelsewhere.co">support@studioelsewhere.co</a>.
+If you are experiencing any issues that aren't listed above, contact <a href = "mailto: support@studioelsewhere.co">support@studioelsewhere.co</a>.
