@@ -2,6 +2,8 @@
 
 Studio Elsewhere’s Recharge Rooms are immersive biophilic private spaces that include music, scent, lighting, and sound, designed with research support from the Abilities Research Center at the Icahn School of Medicine at Mount Sinai to address trauma, anxiety, and stress and improve cognitive performance.  
 
+Isaac Added this.
+
 For more information, visit our website <a href = https://www.studioelsewhere.co/recharge-rooms>here</a>.   
 You can also check out out Toolkit <a href = "https://drive.google.com/file/d/1zQhwWflEzpdj_Dti3EV_bKXMAG3MOPyz/view?usp=sharing">here</a>.
 
